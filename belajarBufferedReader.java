@@ -2,7 +2,7 @@
 import java.io.*;
 /**
  *
- * @author PROG 33
+ * @author Danuarta
  */
 public class belajarBufferedReader {
 public static void main(String[]args){
