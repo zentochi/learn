@@ -1,7 +1,7 @@
 import javax.swing.*;
 /**
  *
- * @author PROG 33
+ * @author Danuarta
  */
 public class BelajarJavaxSwing {
 public static void main(String[]args){
