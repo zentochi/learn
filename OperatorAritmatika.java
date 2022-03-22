@@ -1,6 +1,6 @@
 /**
  *
- * @author PROG 33
+ * @author Danuarta
  */
 public class OperatorAritmatika {
     public static void main(String[] args) {
