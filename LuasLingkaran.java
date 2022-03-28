@@ -1,4 +1,4 @@
-package com.javax;
+package com.pbo.tugas2;
 import javax.swing.JOptionPane;
 /**
  *
